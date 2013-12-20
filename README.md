@@ -1,3 +1,3 @@
 # EmberJS ToDo
 
-[http://emberjs.com/guides/getting-started/](Build One Yourself)
+[Build an EmberJS ToDo App Yourself](http://emberjs.com/guides/getting-started/)
